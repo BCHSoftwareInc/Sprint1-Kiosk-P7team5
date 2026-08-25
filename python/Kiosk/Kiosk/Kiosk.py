@@ -1,0 +1,10 @@
+print("What is your name?")
+name=input()
+print("What is your org?")
+org=input()
+print("What is your name?")
+name=input()
+
+print("|-------------------------------------------------|")
+print("| attendee : " + name.ljust(37) + "|")
+print("| org : " + org.ljust(37) + "|")
