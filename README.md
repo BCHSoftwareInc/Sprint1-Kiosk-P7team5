@@ -1,4 +1,4 @@
-# BCH Software Inc. - Enterprise Engineering Repository
+ # BCH Software Inc. - Enterprise Engineering Repository
 
 Welcome to your team's official codebase for the current development cycle.
 
