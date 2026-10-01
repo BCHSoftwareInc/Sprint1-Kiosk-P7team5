@@ -7,7 +7,8 @@ contact=input()
 print("What is your access level?")
 access=input()
 
-
+print("---------------------------------------------------")
+print("|                                  ASCII          |")
 print("|-------------------------------------------------|")
 print("| attendee : " + name.ljust(37) + "|")
 print("| org : " + org.ljust(42) + "|")
